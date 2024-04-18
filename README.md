@@ -1,2 +1,2 @@
-# blogimage
-博客图库
+# image
+图库
